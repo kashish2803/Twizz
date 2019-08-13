@@ -1,6 +1,6 @@
 # Twizz
 A simple flask application that classifies sentiments of tweets using deep learning and NLP.
-For demo:- http://twizz.herokuapp.com/
+### For demo:- http://twizz.herokuapp.com/
 
 ## Requirements
 1. Flask - pip install flask
